@@ -1,2 +1,2 @@
-# compass-demo
+# compass-app
 Test Repository for Atlassian Compass
